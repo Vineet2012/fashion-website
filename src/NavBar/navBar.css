@@ -1,0 +1,29 @@
+.nav-links {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  margin-left: 22px;
+}
+
+.nav-links2 {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  margin-left: 22px;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 300px) {
+  .nav-links {
+    text-decoration: none;
+    color: black;
+    font-size: 8px;
+    margin-left: 36px;
+  }
+
+  .nav-links2 {
+    text-decoration: none;
+    color: white;
+    font-size: 8px;
+    margin-left: 36px;
+  }
+}

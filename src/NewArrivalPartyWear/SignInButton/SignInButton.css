@@ -1,0 +1,17 @@
+.button-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.SignInButton {
+  margin-top: 4px;
+  width: 20%;
+  height: 32px;
+  border: 0;
+  background-color: #ffd700;
+  color: black;
+  border-radius: 10px;
+  text-align: center;
+}

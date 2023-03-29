@@ -1,0 +1,99 @@
+.mainCard {
+  border-radius: 12px;
+  margin: 8px;
+  width: 95%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.imageContainer {
+  max-height: 56vh;
+  overflow: hidden;
+}
+
+.mainCard:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.mainCard:hover .knowMore {
+  visibility: visible;
+  opacity: 1;
+}
+
+.images {
+  object-fit: cover;
+  width: 100%;
+  height: 56vh;
+  transition: transform 0.4s;
+}
+
+.mainCard:hover img {
+  transform: scale(1.2);
+}
+
+.text {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.text2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  text-transform: lowercase;
+  color: #232323;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.price {
+  color: #172035;
+  font-weight: 600;
+}
+
+.knowMore {
+  visibility: hidden;
+  opacity: 0;
+  font-weight: 700;
+  border: none;
+  height: 40px;
+  padding: 6px;
+  border-radius: 12px;
+  background-color: #e5e5e5;
+  color: black;
+  transition: 0.4s;
+  letter-spacing: 1px;
+}
+
+.knowMore:hover {
+  background-color: black;
+  color: white;
+}
+
+@media only screen and (max-width: 766px) {
+  .knowMore {
+    font-size: 12px;
+    font-weight: 700;
+    height: 48px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .title {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+
+  .price {
+    font-size: 14px;
+    color: #172035;
+    font-weight: 600;
+  }
+}

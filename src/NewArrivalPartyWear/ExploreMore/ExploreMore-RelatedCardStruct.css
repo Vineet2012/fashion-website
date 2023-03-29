@@ -1,0 +1,65 @@
+.frameCard-explore-Related {
+  border-radius: 12px;
+  margin: 8px;
+  width: 95%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.frameCard-explore-Related:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.imageContainerExplore-Related {
+  max-height: 40vh;
+  overflow: hidden;
+}
+
+.frameCard-explore-Related:hover img {
+  transform: scale(1.2);
+}
+
+.frameCard-explore-Related:hover .exploreKnowMore {
+  visibility: visible;
+  opacity: 1;
+}
+
+.explore-RelatedImage {
+  object-fit: cover;
+  width: 80%;
+  height: 48vh;
+  transition: transform 0.4s;
+  cursor: pointer;
+}
+
+.explore-RelatedText {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.explore-RelatedText2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.explore-RelatedTitle {
+  text-transform: lowercase;
+  color: #007185;
+  font-size: 16px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.explore-RelatedTitle:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+.explore-RelatedPrice {
+  color: #172035;
+  font-weight: 600;
+  color: red;
+}

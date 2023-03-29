@@ -1,0 +1,121 @@
+.magzineDiv {
+  background-color: #f7f7f7;
+  margin-top: 64px;
+}
+
+.magzine-wrapper {
+  display: flex;
+  flex: 1;
+}
+
+.magzineAlign {
+  display: flex;
+  flex: 1;
+}
+
+.magzineHead {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.mainCard3Magzine {
+  margin-left: 8px;
+  margin-top: 40px;
+  border-radius: 12px;
+  width: 95%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.imageContainer3Magzine {
+  max-height: 56vh;
+  overflow: hidden;
+}
+
+.mainCard3Magzine:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.mainCard3Magzine:hover .knowMore3Magzine {
+  visibility: visible;
+  opacity: 1;
+}
+
+.images3Magzine {
+  object-fit: cover;
+  width: 100%;
+  height: 56vh;
+  transition: transform 0.4s;
+}
+
+.mainCard3Magzine:hover img {
+  transform: scale(1.2);
+}
+
+.text3Magzine {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.textsMagzine {
+  display: flex;
+  flex-direction: column;
+}
+
+.title3Magzine {
+  text-transform: lowercase;
+  color: #232323;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.price3Magzine {
+  color: #172035;
+  font-weight: 600;
+}
+
+.knowMore3Magzine:hover {
+  background-color: black;
+  color: white;
+}
+
+.knowMore3Magzine {
+  visibility: hidden;
+  opacity: 0;
+  font-weight: 700;
+  border: none;
+  height: 40px;
+  padding: 6px;
+  border-radius: 12px;
+  background-color: #e5e5e5;
+  color: black;
+  transition: 0.4s;
+  letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 767px) {
+  .magzine-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+  }
+
+  .mainCard3Magzine {
+    margin-top: 16px;
+    margin-left: 0px;
+    width: 100%;
+  }
+
+  .magzineDiv {
+    margin-top: 40px;
+  }
+
+  .magzineAlign {
+    display: flex;
+    flex-direction: column;
+  }
+}

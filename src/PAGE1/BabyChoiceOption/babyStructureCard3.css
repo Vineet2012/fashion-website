@@ -1,0 +1,98 @@
+.mainCard3Baby {
+  margin-left: 8px;
+  margin-top: 40px;
+  border-radius: 12px;
+  width: 95%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.imageContainer3Baby {
+  max-height: 56vh;
+  overflow: hidden;
+}
+
+.mainCard3Baby:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.mainCard3Baby:hover .knowMore3Baby {
+  visibility: visible;
+  opacity: 1;
+}
+
+.images3Baby {
+  object-fit: cover;
+  width: 100%;
+  height: 56vh;
+  transition: transform 0.4s;
+}
+
+.mainCard3Baby:hover img {
+  transform: scale(1.2);
+}
+
+.text3Baby {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.textsBaby {
+  display: flex;
+  flex-direction: column;
+}
+
+.title3Baby {
+  text-transform: lowercase;
+  color: #232323;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.price3Baby {
+  color: #172035;
+  font-weight: 600;
+}
+
+.knowMore3Baby:hover {
+  background-color: black;
+  color: white;
+}
+
+.knowMore3Baby {
+  visibility: hidden;
+  opacity: 0;
+  font-weight: 700;
+  border: none;
+  height: 40px;
+  padding: 6px;
+  border-radius: 12px;
+  background-color: #e5e5e5;
+  color: black;
+  transition: 0.4s;
+  letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 766px) {
+  .knowMore3Baby {
+    height: 40px;
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 12px;
+    background-color: #e5e5e5;
+    color: black;
+    transition: 0.4s;
+    letter-spacing: 1px;
+  }
+
+  .price3Baby {
+    font-size: 14px;
+  }
+
+  .title3Baby {
+    font-size: 14px;
+  }
+}

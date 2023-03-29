@@ -1,0 +1,97 @@
+.mainDivAuto {
+  margin: 20px;
+  display: flex;
+}
+
+.autoplayer1 {
+  position: relative;
+  width: 40%;
+  height: 90vh;
+}
+
+.Body {
+  letter-spacing: 1px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  max-width: 40%;
+}
+
+.star {
+  width: 80px;
+}
+
+.priceText {
+  display: flex;
+  line-height: 2px;
+  margin-top: 16px;
+}
+
+.topbrand {
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.2s;
+  text-decoration: none;
+  color: #007185;
+}
+
+.topbrand:hover {
+  color: #b12704;
+}
+
+.qualityColumn {
+  display: flex;
+}
+
+.sizeChart {
+  margin-top: 24px;
+  text-decoration: none;
+  color: #007185;
+  transition: 0.2s;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.brandName {
+  font-weight: 400;
+  font-size: 32px;
+}
+
+.amount {
+  margin-left: 20px;
+  font-size: 20px;
+  color: #b12704;
+  font-weight: 500;
+}
+
+.sizeChart:hover {
+  text-decoration: underline;
+  color: #b12704;
+}
+
+@media only screen and (max-width: 766px) {
+  .mainDivAuto {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+  }
+
+  .autoplayer1 {
+    position: relative;
+    width: 100%;
+    height: 90vh;
+  }
+  .Body {
+    margin-top: 48px;
+    max-width: 100%;
+  }
+
+  .brandName {
+    font-size: 24px;
+  }
+
+  .amount {
+    font-size: 16px;
+  }
+}

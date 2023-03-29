@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+:root {
+  --white-hex: #fff;
+  --white-rgb: 255, 255, 255;
+  --black-hex: #000;
+  --black-rgb: 0, 0, 0;
+  --black-footer: #120d07;
+  --black-copyright: #0f0a04;
+  --pink-primary: #ef4b78;
+  --pink-secondary: #dd4561;
+  --pink-tertiary: #fde4eb;
+  --gray-primary: #4e4e4e;
+  --gray-secondary: #ededed;
+  --gray-tertiary: #e6e3dd;
+  --gray-quaternary: #f9f9f9;
+  --gray-sixfold: #f7f5f9;
+  --yellow: #e8c92a;
+  --maize: #f5edc6;
+  --maize-callout: #fbf7e5;
+  --brown-primary: #63451a;
+  --brown-secondary: #e7e3dc;
+  --brown-callout: #a0773c;
+  --brown-footer: #402d13;
+  --brown-copyright: #2e200c;
+  --brown-ornament-dark: #524025;
+  --brown-ornament-light: #9d5f49;
+  --blue-leaflet: #75cff0;
+  --green-verified: #00c48c;
+  --orange-primary-hex: #ff8f4d;
+  --orange-primary-rgb: 255, 143, 77;
+  --orange-secondary-hex: #ffa26b;
+  --orange-secondary-rgb: 255, 162, 107;
+}
+
+.special-font {
+  font-family: "Smooch", cursive;
+  background-color: #f3ec78;
+  background-image: linear-gradient(90deg, var(--pink-primary), var(--yellow));
+  background-size: 100%;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+.special-font2 {
+  font-family: "Caveat", cursive;
+  background-color: #f3ec78;
+  background-image: linear-gradient(90deg, var(--pink-primary), var(--yellow));
+  background-size: 100%;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.special-font3 {
+  font-family: "Satisfy", cursive;
+  background-color: #f3ec78;
+  background-image: linear-gradient(90deg, var(--pink-primary), var(--yellow));
+  background-size: 100%;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.special-font4 {
+  font-family: "Reem Kufi", sans-serif;
+}

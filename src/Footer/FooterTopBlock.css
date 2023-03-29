@@ -1,0 +1,110 @@
+.linkToTop-wrapper {
+  background-color: #232f3e;
+  text-align: center;
+  height: 56px;
+  margin-top: 56px;
+  padding-top: 16px;
+  transition: 0.2s;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.linkToTop {
+  color: white;
+  text-decoration: none;
+}
+
+.linkToTop:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.linkToTop-wrapper:hover {
+  opacity: 0.8;
+}
+
+.links-wrapper-wrpper {
+  background-color: #232f3e;
+  color: white;
+}
+
+.links-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  margin: 0px 5% 0px 5%;
+}
+
+.linksFooter {
+  font-size: 16px;
+  margin-right: 80px;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+.links1-wrapper {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  margin-left: 40px;
+}
+
+.links1 {
+  color: #ddd;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.links1:hover {
+  color: #ddd;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+  .links-wrapper {
+    margin: 0px 8px 0px 8px;
+  }
+
+  .links1-wrapper {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin-left: 8px;
+  }
+}
+
+@media only screen and (max-width: 426px) {
+  .linksFooter {
+    font-size: 10px;
+    margin-top: 40px;
+    font-weight: 600;
+  }
+
+  .links1 {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .linksFooter {
+    margin-right: 0px;
+  }
+
+  .links-wrapper {
+    margin: 0px 8px 0px 8px;
+  }
+
+  .linkToTop-wrapper {
+    padding-top: 8px;
+    height: 40px;
+  }
+
+  .links1-wrapper {
+    margin-left: 8px;
+  }
+
+  .linkToTop {
+    font-size: 12px;
+  }
+}

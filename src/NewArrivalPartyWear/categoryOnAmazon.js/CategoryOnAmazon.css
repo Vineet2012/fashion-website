@@ -1,0 +1,32 @@
+.card-wrapper {
+  display: flex;
+  margin: 24px;
+}
+
+.links {
+  text-decoration: none;
+  color: #007185;
+  cursor: pointer;
+}
+
+.priceCategory {
+  color: #cc0c39;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.links:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+@media only screen and (max-width: 425px) {
+  .card-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  .card-wrapper {
+    display: flex;
+    margin: 10px;
+  }
+}

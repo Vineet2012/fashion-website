@@ -1,0 +1,22 @@
+.navPage1Color {
+  background-color: #f7f7f7;
+}
+
+.color1 {
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.color1:hover {
+  color: black;
+  text-decoration: underline red;
+}
+
+@media only screen and (max-width: 768px) {
+  .color1 {
+    font-size: 12px;
+  }
+}

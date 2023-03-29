@@ -1,0 +1,8 @@
+.detailsProduct {
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  font-size: 14px;
+}

@@ -1,0 +1,116 @@
+.body1 {
+  background-image: url("https://mlgb48wyr8ik.i.optimole.com/w:826/h:630/q:60/f:avif/https://fresnostatehousing.org/wp-content/uploads/2022/10/Dark_Gradient_Compressed.webp");
+  position: relative;
+}
+
+.body1 .sale {
+  margin-top: 100px;
+  text-align: center;
+  color: blue;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.body1 .deal {
+  text-align: center;
+  font-size: 40px;
+}
+
+.body1 .collection {
+  text-align: center;
+  font-size: 16px;
+}
+
+.body1 .oFF {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.body1 .more {
+  text-align: center;
+  font-size: 20px;
+}
+
+.body1 .butt2 {
+  margin-top: 40px;
+  padding-bottom: 40px;
+  top: 110%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  -ms-transform: translateX(260%);
+  transform: translateX(260%);
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  width: 16%;
+  height: 40px;
+}
+
+@media only screen and (max-width: 425px) and (min-width: 375px) {
+  .body1 .sale {
+    margin-top: 60px;
+  }
+
+  .body1 .deal {
+    font-size: 24px;
+  }
+
+  .body1 .oFF {
+    font-size: 16px;
+  }
+
+  .body1 .more {
+    font-size: 16px;
+  }
+
+  .body1 .butt2 {
+    margin-top: 32px;
+    font-size: 12px;
+    padding-bottom: 24px;
+    top: 110%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(117%);
+    transform: translateX(117%);
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 30%;
+    height: 20px;
+  }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 424px) {
+  .body1 .sale {
+    margin-top: 60px;
+  }
+
+  .body1 .deal {
+    font-size: 24px;
+  }
+
+  .body1 .oFF {
+    font-size: 16px;
+  }
+
+  .body1 .more {
+    font-size: 16px;
+  }
+
+  .body1 .butt2 {
+    margin-top: 32px;
+    font-size: 12px;
+    padding-bottom: 24px;
+    top: 110%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(117%);
+    transform: translateX(117%);
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 30%;
+    height: 20px;
+  }
+}

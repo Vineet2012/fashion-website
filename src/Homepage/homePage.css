@@ -1,0 +1,267 @@
+body {
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+}
+
+.card-img-home {
+  width: 56px;
+  padding-left: 14px;
+}
+
+.nav1 {
+  flex: 1;
+  background-color: white;
+  align-items: center;
+  position: relative;
+}
+
+.nav .nav1 .butt1 {
+  margin: 0;
+  position: absolute;
+  top: 85%;
+  -ms-transform: translateY(-10%);
+  transform: translateY(-10%);
+  -ms-transform: translateX(85%);
+  transform: translateX(85%);
+  min-height: 40px;
+  min-width: 20%;
+  font-size: 14px;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+}
+
+.nav .nav1 .paraHead1 {
+  margin: 0;
+  position: absolute;
+  top: 70%;
+  -ms-transform: translateY(-10%);
+  transform: translateY(-10%);
+  -ms-transform: translateX(22%);
+  transform: translateX(22%);
+  max-width: 80%;
+  font-size: 14px;
+  color: black;
+}
+
+.nav2 {
+  display: flex;
+  flex: 1;
+  background-color: #4863a0;
+  height: 40rem;
+}
+
+.siteName {
+  position: absolute;
+  top: 25%;
+  -ms-transform: translateY(10%);
+  transform: translateY(10%);
+  -ms-transform: translateX(8%);
+  transform: translateX(8%);
+  z-index: 1;
+  font-size: 50%;
+  color: #f5f5f5;
+}
+
+.nav .nav1 .cardLeft {
+  max-width: 160px;
+  height: 120px;
+  top: 12%;
+  z-index: 1;
+  cursor: pointer;
+  -ms-transform: translateY(0%);
+  transform: translateY(0%);
+  -ms-transform: translateX(0%);
+  transform: translateX(0%);
+  font-size: 12px;
+}
+
+.nav .nav2 .cardRight {
+  height: 120px;
+  z-index: 1;
+  max-width: 160px;
+  cursor: pointer;
+  top: 12%;
+  font-size: 12px;
+  -ms-transform: translateY(0%);
+  transform: translateY(0%);
+  -ms-transform: translateX(0%);
+  transform: translateX(0%);
+}
+
+@media only screen and (max-width: 423px) and (min-width: 375px) {
+  .siteName {
+    top: 40%;
+    -ms-transform: translateY(10%);
+    transform: translateY(10%);
+    -ms-transform: translateX(12%);
+    transform: translateX(12%);
+    font-size: 75px;
+  }
+
+  .nav2 {
+    height: 30rem;
+  }
+
+  .nav .nav2 .cardRight {
+    height: 105px;
+    max-width: 120px;
+    font-size: 8px;
+    top: 16%;
+  }
+
+  .nav .nav1 .cardLeft {
+    max-width: 120px;
+    height: 105px;
+    font-size: 8px;
+    top: 16%;
+  }
+
+  .nav .nav1 .paraHead1 {
+    top: 58%;
+    font-size: 10px;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(27%);
+    transform: translateX(27%);
+  }
+  .nav .nav1 .butt1 {
+    top: 88%;
+    width: 60%;
+    min-height: 10px;
+    font-size: 12px;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(28%);
+    transform: translateX(28%);
+  }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 376px) {
+  .siteName {
+    top: 40%;
+    -ms-transform: translateY(10%);
+    transform: translateY(10%);
+    -ms-transform: translateX(12%);
+    transform: translateX(12%);
+    font-size: 80px;
+  }
+
+  .nav2 {
+    height: 30rem;
+  }
+
+  .nav .nav2 .cardRight {
+    height: 105px;
+    max-width: 120px;
+    font-size: 8px;
+    top: 16%;
+  }
+
+  .nav .nav1 .cardLeft {
+    max-width: 120px;
+    height: 105px;
+    font-size: 8px;
+    top: 16%;
+  }
+
+  .nav .nav1 .paraHead1 {
+    top: 58%;
+    font-size: 10px;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(27%);
+    transform: translateX(27%);
+  }
+  .nav .nav1 .butt1 {
+    top: 88%;
+    width: 60%;
+    min-height: 10px;
+    font-size: 12px;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(28%);
+    transform: translateX(28%);
+  }
+}
+
+/* @media only screen and (max-width: 1023px) and (min-width: 768px) {
+  .siteName {
+    top: 30%;
+    -ms-transform: translateY(10%);
+    transform: translateY(10%);
+    -ms-transform: translateX(12%);
+    transform: translateX(12%);
+    font-size: 150px;
+  }
+
+  .nav .nav1 .paraHead1 {
+    top: 48%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(27%);
+    transform: translateX(27%);
+  }
+  .nav .nav1 .butt1 {
+    top: 70%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(50%);
+    transform: translateX(50%);
+  }
+} */
+
+@media only screen and (max-width: 1439px) and (min-width: 1024px) {
+  .nav .nav1 .paraHead1 {
+    top: 64%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(27%);
+    transform: translateX(27%);
+  }
+
+  .nav .nav1 .butt1 {
+    top: 80%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(68%);
+    transform: translateX(68%);
+  }
+  .siteName {
+    top: 40%;
+    -ms-transform: translateY(10%);
+    transform: translateY(10%);
+    -ms-transform: translateX(12%);
+    transform: translateX(12%);
+    font-size: 200px;
+  }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1025px) {
+  .nav .nav1 .butt1 {
+    top: 90%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(74%);
+    transform: translateX(74%);
+  }
+  .siteName {
+    top: 27%;
+    -ms-transform: translateY(10%);
+    transform: translateY(10%);
+    -ms-transform: translateX(8%);
+    transform: translateX(8%);
+    font-size: 270px;
+  }
+  .nav .nav1 .paraHead1 {
+    font-size: 16px;
+    top: 71%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(23%);
+    transform: translateX(23%);
+  }
+}
