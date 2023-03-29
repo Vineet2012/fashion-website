@@ -21,8 +21,8 @@ export default function EligibleOrders() {
       items: 3,
     },
     mobile: {
-      breakpoint: { max: 768, min: 425 },
-      items: 2,
+      breakpoint: { max: 768, min: 320 },
+      items: 1,
     },
   };
 

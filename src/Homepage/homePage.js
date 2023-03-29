@@ -7,9 +7,7 @@ export default function HomePage() {
   return (
     <div>
       <NavBar />
-      <h1 className="siteName">FAMICLO</h1>
-
-      <div className="nav" style={{ position: "relative" }}>
+      <div className="nav">
         <div className="nav1">
           <div className=" card mx-auto cardLeft">
             <div className="row g-0">
@@ -39,15 +37,18 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-          <p className="paraHead1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed
-            consequat dolor. Quisque laoreet eu erat in molestie. Proin a metus
-            purus. Morbi sodales is quis justo ultricies luctus. Cras ornare
-            congue metus at feugiat.
-          </p>
-          <button type="button" className="btn  butt1">
-            SHOP NOW
-          </button>
+          <div className="nav1-div">
+            <p className="siteName">FAMI</p>
+            <p className="paraHead1">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+              sed consequat dolor. Quisque laoreet eu erat in molestie. Proin a
+              metus purus. Morbi sodales is quis justo ultricies luctus. Cras
+              ornare congue metus at feugiat.
+            </p>
+            <button type="button" className="btn  butt1">
+              SHOP NOW
+            </button>
+          </div>
         </div>
         <div className="nav2">
           <div className=" card mx-auto cardRight">
@@ -77,6 +78,9 @@ export default function HomePage() {
                 </div>
               </div>
             </div>
+          </div>
+          <div className="nav2-div">
+            <p className="siteName2">LCO</p>
           </div>
         </div>
       </div>

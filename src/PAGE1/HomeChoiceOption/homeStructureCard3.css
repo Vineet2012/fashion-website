@@ -79,8 +79,10 @@
 @media only screen and (max-width: 766px) {
   .knowMore3Home {
     height: 40px;
-    font-size: 12px;
-    padding: 4px;
+    font-size: 18px;
+    visibility: visible;
+    opacity: 1;
+    padding: 8px;
     border-radius: 12px;
     background-color: #e5e5e5;
     color: black;
@@ -89,10 +91,10 @@
   }
 
   .price3Home {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .title3Home {
-    font-size: 14px;
+    font-size: 18px;
   }
 }

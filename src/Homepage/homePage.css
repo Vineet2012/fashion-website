@@ -11,21 +11,16 @@ body {
   padding-left: 14px;
 }
 
-.nav1 {
+.nav .nav1 {
   flex: 1;
   background-color: white;
-  align-items: center;
-  position: relative;
 }
 
-.nav .nav1 .butt1 {
-  margin: 0;
-  position: absolute;
-  top: 85%;
-  -ms-transform: translateY(-10%);
-  transform: translateY(-10%);
-  -ms-transform: translateX(85%);
-  transform: translateX(85%);
+.nav .nav1 .nav1-div {
+  margin-left: 9%;
+}
+
+.nav .nav1 .nav1-div .butt1 {
   min-height: 40px;
   min-width: 20%;
   font-size: 14px;
@@ -34,38 +29,34 @@ body {
   color: white;
 }
 
-.nav .nav1 .paraHead1 {
-  margin: 0;
-  position: absolute;
-  top: 70%;
-  -ms-transform: translateY(-10%);
-  transform: translateY(-10%);
-  -ms-transform: translateX(22%);
-  transform: translateX(22%);
-  max-width: 80%;
+.nav .nav1 .nav1-div .paraHead1 {
+  max-width: 100%;
   font-size: 14px;
-  color: black;
+}
+
+.nav .nav1 .nav1-div .siteName {
+  font-size: 200px;
+  font-weight: 600;
+  z-index: 1;
+  color: #f5f5f5;
 }
 
 .nav2 {
-  display: flex;
   flex: 1;
   background-color: #4863a0;
   height: 40rem;
 }
 
-.siteName {
-  position: absolute;
-  top: 25%;
-  -ms-transform: translateY(10%);
-  transform: translateY(10%);
-  -ms-transform: translateX(8%);
-  transform: translateX(8%);
-  z-index: 1;
-  font-size: 50%;
-  color: #f5f5f5;
+.nav .nav2 .nav2-div {
+  margin-left: 0%;
 }
 
+.nav .nav2 .nav2-div .siteName2 {
+  font-size: 68px;
+  font-weight: 600;
+  z-index: 1;
+  color: #f5f5f5;
+}
 .nav .nav1 .cardLeft {
   max-width: 160px;
   height: 120px;
@@ -92,176 +83,54 @@ body {
   transform: translateX(0%);
 }
 
-@media only screen and (max-width: 423px) and (min-width: 375px) {
-  .siteName {
-    top: 40%;
-    -ms-transform: translateY(10%);
-    transform: translateY(10%);
-    -ms-transform: translateX(12%);
-    transform: translateX(12%);
-    font-size: 75px;
+@media only screen and (max-width: 425px) {
+  .nav .nav1 .nav1-div .siteName {
+    font-size: 65px;
+    letter-spacing: 10px;
   }
 
-  .nav2 {
-    height: 30rem;
-  }
-
-  .nav .nav2 .cardRight {
-    height: 105px;
-    max-width: 120px;
-    font-size: 8px;
-    top: 16%;
-  }
-
-  .nav .nav1 .cardLeft {
-    max-width: 120px;
-    height: 105px;
-    font-size: 8px;
-    top: 16%;
-  }
-
-  .nav .nav1 .paraHead1 {
-    top: 58%;
-    font-size: 10px;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(27%);
-    transform: translateX(27%);
-  }
-  .nav .nav1 .butt1 {
-    top: 88%;
-    width: 60%;
-    min-height: 10px;
+  .nav .nav1 .nav1-div .paraHead1 {
     font-size: 12px;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(28%);
-    transform: translateX(28%);
+  }
+
+  .nav .nav1 .nav1-div {
+    margin-top: 40%;
+  }
+
+  .nav .nav2 .nav2-div {
+    margin-top: 40%;
+  }
+
+  .nav .nav2 .nav2-div .siteName2 {
+    font-size: 65px;
+    letter-spacing: 10px;
   }
 }
 
-@media only screen and (max-width: 767px) and (min-width: 376px) {
-  .siteName {
-    top: 40%;
-    -ms-transform: translateY(10%);
-    transform: translateY(10%);
-    -ms-transform: translateX(12%);
-    transform: translateX(12%);
+@media only screen and (max-width: 768px) and (min-width: 426px) {
+  .nav .nav1 .nav1-div .siteName {
     font-size: 80px;
+    letter-spacing: 10px;
   }
 
-  .nav2 {
-    height: 30rem;
-  }
-
-  .nav .nav2 .cardRight {
-    height: 105px;
-    max-width: 120px;
-    font-size: 8px;
-    top: 16%;
-  }
-
-  .nav .nav1 .cardLeft {
-    max-width: 120px;
-    height: 105px;
-    font-size: 8px;
-    top: 16%;
-  }
-
-  .nav .nav1 .paraHead1 {
-    top: 58%;
-    font-size: 10px;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(27%);
-    transform: translateX(27%);
-  }
-  .nav .nav1 .butt1 {
-    top: 88%;
-    width: 60%;
-    min-height: 10px;
+  .nav .nav1 .nav1-div .paraHead1 {
     font-size: 12px;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(28%);
-    transform: translateX(28%);
+  }
+
+  .nav .nav2 .nav2-div .siteName2 {
+    font-size: 80px;
+    letter-spacing: 10px;
   }
 }
 
-@media only screen and (max-width: 1024px) and (min-width: 768px) {
-  .nav .nav1 .paraHead1 {
-    top: 64%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(26%);
-    transform: translateX(26%);
-  }
-
-  .nav .nav1 .butt1 {
-    top: 84%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(66%);
-    transform: translateX(66%);
-  }
-  .siteName {
-    top: 40%;
-    -ms-transform: translateY(10%);
-    transform: translateY(10%);
-    -ms-transform: translateX(11%);
-    transform: translateX(11%);
-    font-size: 200px;
-  }
-}
-
-@media only screen and (max-width: 1299px) and (min-width: 1025px) {
-  .nav .nav1 .paraHead1 {
-    top: 64%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(27%);
-    transform: translateX(27%);
-  }
-
-  .nav .nav1 .butt1 {
-    top: 80%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(86%);
-    transform: translateX(86%);
-  }
-  .siteName {
-    top: 24%;
-    -ms-transform: translateY(10%);
-    transform: translateY(10%);
-    -ms-transform: translateX(11%);
-    transform: translateX(11%);
+@media only screen and (max-width: 1440px) and (min-width: 1025px) {
+  .nav .nav1 .nav1-div .siteName {
     font-size: 250px;
+    letter-spacing: 1px;
   }
-}
 
-@media only screen and (max-width: 1440px) and (min-width: 1300px) {
-  .nav .nav1 .butt1 {
-    top: 90%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(84%);
-    transform: translateX(84%);
-  }
-  .siteName {
-    top: 27%;
-    -ms-transform: translateY(10%);
-    transform: translateY(10%);
-    -ms-transform: translateX(9%);
-    transform: translateX(9%);
-    font-size: 290px;
-  }
-  .nav .nav1 .paraHead1 {
-    font-size: 16px;
-    top: 71%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(23%);
-    transform: translateX(23%);
+  .nav .nav2 .nav2-div .siteName2 {
+    font-size: 250px;
+    letter-spacing: 1px;
   }
 }

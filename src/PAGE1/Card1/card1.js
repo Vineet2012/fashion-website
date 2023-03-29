@@ -20,8 +20,8 @@ export default function Card1() {
       items: 3,
     },
     mobile: {
-      breakpoint: { max: 767, min: 425 },
-      items: 2,
+      breakpoint: { max: 767, min: 320 },
+      items: 1,
     },
   };
 
