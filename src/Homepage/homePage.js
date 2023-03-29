@@ -1,9 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import MainBody from "../MainBody/mainBody";
 import NavBar from "../NavBar/navBar";
 import "./homePage.css";
 
 export default function HomePage() {
+  const navigate = useNavigate();
+  function nextPage1() {
+    navigate("/nextPage1");
+  }
+
   return (
     <div>
       <NavBar />
@@ -45,7 +51,7 @@ export default function HomePage() {
               metus purus. Morbi sodales is quis justo ultricies luctus. Cras
               ornare congue metus at feugiat.
             </p>
-            <button type="button" className="btn  butt1">
+            <button onClick={nextPage1} type="button" className="btn  butt1">
               SHOP NOW
             </button>
           </div>
