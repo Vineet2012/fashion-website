@@ -15,7 +15,7 @@ export default function FooterMiddleBlock() {
           <a className="place">France</a>
           <a className="place">Germany</a>
           <a className="place">America</a>
-          <a className="place">France</a>
+          <a className="place">Nagaland</a>
         </div>
         <div className="placeLinks2">
           <a className="place">Poland</a>

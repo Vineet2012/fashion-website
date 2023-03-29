@@ -188,33 +188,33 @@ body {
   }
 }
 
-/* @media only screen and (max-width: 1023px) and (min-width: 768px) {
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+  .nav .nav1 .paraHead1 {
+    top: 64%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(26%);
+    transform: translateX(26%);
+  }
+
+  .nav .nav1 .butt1 {
+    top: 84%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    -ms-transform: translateX(66%);
+    transform: translateX(66%);
+  }
   .siteName {
-    top: 30%;
+    top: 40%;
     -ms-transform: translateY(10%);
     transform: translateY(10%);
-    -ms-transform: translateX(12%);
-    transform: translateX(12%);
-    font-size: 150px;
+    -ms-transform: translateX(11%);
+    transform: translateX(11%);
+    font-size: 200px;
   }
+}
 
-  .nav .nav1 .paraHead1 {
-    top: 48%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(27%);
-    transform: translateX(27%);
-  }
-  .nav .nav1 .butt1 {
-    top: 70%;
-    -ms-transform: translateY(-10%);
-    transform: translateY(-10%);
-    -ms-transform: translateX(50%);
-    transform: translateX(50%);
-  }
-} */
-
-@media only screen and (max-width: 1439px) and (min-width: 1024px) {
+@media only screen and (max-width: 1299px) and (min-width: 1025px) {
   .nav .nav1 .paraHead1 {
     top: 64%;
     -ms-transform: translateY(-10%);
@@ -227,34 +227,34 @@ body {
     top: 80%;
     -ms-transform: translateY(-10%);
     transform: translateY(-10%);
-    -ms-transform: translateX(68%);
-    transform: translateX(68%);
+    -ms-transform: translateX(86%);
+    transform: translateX(86%);
   }
   .siteName {
-    top: 40%;
+    top: 24%;
     -ms-transform: translateY(10%);
     transform: translateY(10%);
-    -ms-transform: translateX(12%);
-    transform: translateX(12%);
-    font-size: 200px;
+    -ms-transform: translateX(11%);
+    transform: translateX(11%);
+    font-size: 250px;
   }
 }
 
-@media only screen and (max-width: 1440px) and (min-width: 1025px) {
+@media only screen and (max-width: 1440px) and (min-width: 1300px) {
   .nav .nav1 .butt1 {
     top: 90%;
     -ms-transform: translateY(-10%);
     transform: translateY(-10%);
-    -ms-transform: translateX(74%);
-    transform: translateX(74%);
+    -ms-transform: translateX(84%);
+    transform: translateX(84%);
   }
   .siteName {
     top: 27%;
     -ms-transform: translateY(10%);
     transform: translateY(10%);
-    -ms-transform: translateX(8%);
-    transform: translateX(8%);
-    font-size: 270px;
+    -ms-transform: translateX(9%);
+    transform: translateX(9%);
+    font-size: 290px;
   }
   .nav .nav1 .paraHead1 {
     font-size: 16px;
