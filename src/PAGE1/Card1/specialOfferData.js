@@ -37,20 +37,68 @@ export const specialOfferData = [
   },
   {
     id: 4,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
   {
     id: 5,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
   {
     id: 6,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
   {
     id: 7,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
   {
     id: 8,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
   {
     id: 9,
+    bullet1: "Buy 3 Get 5% Off, Buy 4 Get 10% Off ",
+    bullet2:
+      "10% Instant Discount up to INR 500 on IDBI Bank Card Trxns. Min purchase value INR 2000",
+
+    bullet3:
+      "No cost EMI available on select cards. Please check 'EMI options' above for more details.",
+    bullet4: "Get GST invoice and save up to 28% on business purchases",
+    bullet4Link1: "Sign up for free",
   },
 ];

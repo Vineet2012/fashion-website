@@ -81,6 +81,25 @@ export const cardsData = [
     img: "https://images.unsplash.com/photo-1518459031867-a89b944bffe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1141&q=80",
     price: "$550",
     img1: "https://images.unsplash.com/photo-1525171254930-643fc658b64e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1077&q=80",
+    knowMoreImg1:
+      "https://4kwallpapers.com/images/wallpapers/samantha-indian-actress-fitness-workout-zym-weight-lifting-3840x2160-4753.jpg",
+    knowMoreImg2:
+      "https://c4.wallpaperflare.com/wallpaper/679/865/217/machine-workout-fitness-gym-wallpaper-preview.jpg",
+    knowMoreImg3:
+      "https://c4.wallpaperflare.com/wallpaper/252/92/1022/female-fitness-gym-arms-wallpaper-preview.jpg",
+    brand:
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Dress Gown for Girl/Women/Ladies",
+    starImage:
+      "https://www.pngplay.com/wp-content/uploads/6/Golden-5-Star-Rating-PNG.png",
+    priceKnowMore: "₹1,050",
+    color: "Black",
+    size1: "100",
+    size2: "104",
+    size3: "108",
+    bulletPoints1: "Care Instructions: Dry Clean Only",
+    bulletPoints2: "Fit Type: Regular",
+    bulletPoints3: "Fabric: Slub Rayon || Pattern: Printed || Style: Anarkali",
+    productDescriptionHead: "Product Description",
   },
   {
     id: 5,
@@ -88,6 +107,25 @@ export const cardsData = [
     img: "https://images.unsplash.com/photo-1624303966826-260632059640?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1051&q=80",
     price: "$650",
     img1: "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    knowMoreImg1:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51IAgWvFuGS._UL1400_.jpg",
+    knowMoreImg2:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    knowMoreImg3:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    brand:
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Dress Gown for Girl/Women/Ladies",
+    starImage:
+      "https://www.pngplay.com/wp-content/uploads/6/Golden-5-Star-Rating-PNG.png",
+    priceKnowMore: "₹1,050",
+    color: "Black",
+    size1: "100",
+    size2: "104",
+    size3: "108",
+    bulletPoints1: "Care Instructions: Dry Clean Only",
+    bulletPoints2: "Fit Type: Regular",
+    bulletPoints3: "Fabric: Slub Rayon || Pattern: Printed || Style: Anarkali",
+    productDescriptionHead: "Product Description",
   },
   {
     id: 6,
@@ -95,6 +133,25 @@ export const cardsData = [
     img: "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     price: "$750",
     img1: "https://images.unsplash.com/photo-1673111640560-198e93112e20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    knowMoreImg1:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51IAgWvFuGS._UL1400_.jpg",
+    knowMoreImg2:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    knowMoreImg3:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    brand:
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Dress Gown for Girl/Women/Ladies",
+    starImage:
+      "https://www.pngplay.com/wp-content/uploads/6/Golden-5-Star-Rating-PNG.png",
+    priceKnowMore: "₹1,050",
+    color: "Black",
+    size1: "100",
+    size2: "104",
+    size3: "108",
+    bulletPoints1: "Care Instructions: Dry Clean Only",
+    bulletPoints2: "Fit Type: Regular",
+    bulletPoints3: "Fabric: Slub Rayon || Pattern: Printed || Style: Anarkali",
+    productDescriptionHead: "Product Description",
   },
   {
     id: 7,
@@ -102,6 +159,25 @@ export const cardsData = [
     img: "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     price: "$850",
     img1: "https://images.unsplash.com/photo-1596783047904-4000addd05cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    knowMoreImg1:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51IAgWvFuGS._UL1400_.jpg",
+    knowMoreImg2:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    knowMoreImg3:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    brand:
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Dress Gown for Girl/Women/Ladies",
+    starImage:
+      "https://www.pngplay.com/wp-content/uploads/6/Golden-5-Star-Rating-PNG.png",
+    priceKnowMore: "₹1,050",
+    color: "Black",
+    size1: "100",
+    size2: "104",
+    size3: "108",
+    bulletPoints1: "Care Instructions: Dry Clean Only",
+    bulletPoints2: "Fit Type: Regular",
+    bulletPoints3: "Fabric: Slub Rayon || Pattern: Printed || Style: Anarkali",
+    productDescriptionHead: "Product Description",
   },
   {
     id: 9,
@@ -109,5 +185,24 @@ export const cardsData = [
     img: "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     price: "$950",
     img1: "https://images.unsplash.com/photo-1465495887997-2ad0bc82076e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    knowMoreImg1:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51IAgWvFuGS._UL1400_.jpg",
+    knowMoreImg2:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    knowMoreImg3:
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61H9GQIOg3S._UL1400_.jpg",
+    brand:
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Dress Gown for Girl/Women/Ladies",
+    starImage:
+      "https://www.pngplay.com/wp-content/uploads/6/Golden-5-Star-Rating-PNG.png",
+    priceKnowMore: "₹1,050",
+    color: "Black",
+    size1: "100",
+    size2: "104",
+    size3: "108",
+    bulletPoints1: "Care Instructions: Dry Clean Only",
+    bulletPoints2: "Fit Type: Regular",
+    bulletPoints3: "Fabric: Slub Rayon || Pattern: Printed || Style: Anarkali",
+    productDescriptionHead: "Product Description",
   },
 ];

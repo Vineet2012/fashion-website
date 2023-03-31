@@ -130,20 +130,260 @@ export const productRelatedToThisItemData = [
   },
   {
     id: 4,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 5,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 6,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 7,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 8,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 9,
+    title1: [
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+      "Janasya Women's Mustard Cotton Block Print Flared Western Dress",
+    ],
+    price1: [
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+      "₹1,000",
+    ],
+    image1: [
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Lr25rR53L._AC_SR480,600_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31thK3jrhdL._AC_SR480,600_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412PCDjohSL._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71WXmci6NGL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Awy7TZp4L._AC_SR480,600_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/518Fc5qw1lL._AC_UL320_SR320,320_.jpg ",
+
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/613mWf389IL._AC_UL480_FMwebp_QL65_.jpg ",
+      "https://images-eu.ssl-images-amazon.com/images/I/51GarL2jEkL._AC_UL320_SR320,320_.jpg",
+    ],
   },
 ];

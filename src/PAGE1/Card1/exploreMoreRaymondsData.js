@@ -130,20 +130,260 @@ export const exploreMoreRaymondsData = [
   },
   {
     id: 4,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 5,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 6,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 7,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 8,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
   {
     id: 9,
+    title1: [
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+      "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+    ],
+    price1: [
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+      "₹750.00",
+    ],
+    image1: [
+      "https://images-eu.ssl-images-amazon.com/images/I/711f1tX6oUL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41fZ3NYyUsL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/71VCZxocRQL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41Yn+Oq2OxL._AC_UL320_SR320,320_.jpg ",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41TpblMYLNL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/41rmAWxBAjL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/61sby7cfTfL._AC_UL320_SR320,320_.jpg",
+
+      "https://images-eu.ssl-images-amazon.com/images/I/51EoEvVZxLL._AC_UL320_SR320,320_.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/61r2Rwcn2mL._AC_UL320_SR320,320_.jpg",
+    ],
   },
 ];
